@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Regnold%20Chinowaita&fontSize=48&fontColor=ffffff&desc=Petroleum%20Engineering%20%7C%20Production%20%26%20Data%20Analytics&descAlignY=62&descSize=20" alt="Header banner" />
+<img src="assets/header.png" alt="Regnold Chinowaita — Petroleum Engineering" width="100%" />
 </p>
 
 <p align="center"><b>Petroleum Engineering M.S. Candidate</b> · University of Oklahoma</p>
@@ -62,11 +62,10 @@ Process design of a bio-leaching plant to extract gold from tailings, including 
 ### Water Treatment Chemical Dosing Optimization
 MATLAB model comparing oxidant costs (H2O2 vs. ClO2) to reduce treatment chemical expenses while maintaining water quality.
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=regnold007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=regnold007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=regnold007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Connect
@@ -74,5 +73,5 @@ MATLAB model comparing oxidant costs (H2O2 vs. ClO2) to reduce treatment chemica
 [Email](mailto:regnoldchinowaitaa@gmail.com)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer banner" />
+<img src="assets/footer.png" alt="" width="100%" />
 </p>
