@@ -1,54 +1,65 @@
-<h1>Hi, I'm Regnold! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1 align="center">Regnold Chinowaita</h1>
+<p align="center"><b>Petroleum Engineering M.S. Candidate</b> · University of Oklahoma</p>
 
-<h2>👨‍💻 Petroleum Engineering Projects:</h2>
+<p align="center">
+Petroleum engineering graduate student combining hands-on subsurface/core-flow lab experience (permeability, porosity, EOR) with production engineering, PIPESIM/nodal analysis, and a process-safety background.
+</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<p align="center">
+<a href="mailto:regnoldchinowaitaa@gmail.com"><img src="https://img.shields.io/badge/Email-regnoldchinowaitaa%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://img.shields.io/badge/Location-Norman%2C%20OK-0a66c2?style=flat-square" alt="Location">
+</p>
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## Education
 
-<h2> 🤳 Connect with me:</h2>
+**University of Oklahoma** — Norman, OK
+Master of Science in Petroleum Engineering *(Expected 2027)*
+Graduate Certificate in Sustainable Energy Systems
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**National University of Science and Technology** — Bulawayo, Zimbabwe
+B.S. (Honors) in Chemical Engineering *(2023)*
+Relevant coursework: Mineral Processing, Transport Phenomena, Process Dynamics and Control, Plant Design
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## Experience
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graduate Teaching Assistant — Reservoir Fluid Mechanics Lab**
+*University of Oklahoma · August 2025 – Present*
+Instructs students on experimental protocols for flow in porous media and Enhanced Oil Recovery (EOR); manages core-flooding stations to measure absolute and relative permeability, guides calculation of Darcy/non-Darcy flow coefficients and porosity, and oversees EOR sand-pack waterflooding/surfactant-flooding experiments.
 
-Here are some ideas to get you started:
+**Production Engineering Intern — Harare Water (Morton Jaffray Waterworks)**
+*Dec 2022 – Sept 2023*
+Collaborated with process engineers to improve throughput and water-recovery efficiency by 18%; analyzed energy consumption data and ran process simulations to reduce plant energy costs; managed pump station operations and monitored clarifiers/filtration systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Quality Assurance Engineering Intern — Harare Water**
+*Sept 2022 – Dec 2022*
+Supported design and commissioning of pilot-scale processing equipment; tested treatment chemical efficiency and recommended dosing adjustments; worked with the Environmental Management Agency to mitigate industrial spillages.
+
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| Reservoir & Drilling | Reservoir Simulation, Well Logging & Interpretation, Pressure Transient Analysis |
+| Production Engineering | Artificial Lift Design (ESP, Gas Lift, Rod Pump), Nodal Analysis, Well Performance Modeling, IPR |
+| Engineering Software | PIPESIM, SuperPro |
+| Programming & Data Analysis | Python, MATLAB, R |
+| Standards | API standards and safety regulations for drilling & production operations |
+
+## Featured Projects
+
+### [Multi-Well Production Optimization & Artificial Lift Design](https://github.com/regnold007/multi-well-production-optimization)
+Advanced Production Engineering term project — performed nodal analysis and PIPESIM multiphase-flow simulation across six wells to select optimum tubing/pipeline sizes and predict well performance over field life. Designed and sized ESP, gas lift, and rod pump systems via sensitivity studies on pump staging and operating frequency, and built an economic model covering oil price, water disposal, and lift power costs.
+
+### [ESP Well Failure Prediction — 30-Day Early Warning System](https://github.com/regnold007/esp-failure-prediction)
+Data analytics project — built a Random Forest classifier to predict Electrical Submersible Pump failures up to 30 days in advance from sensor and production data (SPE E-Challenge dataset, 94 wells). Addressed severe class imbalance with SMOTE and engineered rolling degradation-signature features, achieving 0.992 AUC and 91% recall on held-out test wells, with output translated into a CRITICAL/HIGH/MEDIUM/LOW risk dashboard.
+
+### Gold Bio-Leaching Processing Plant Design (2,950 t/day)
+Led the process design of a bio-leaching plant to extract gold from tailings, including solid-liquid separation methods and a comminution circuit, and conducted an economic feasibility assessment.
+
+### Water Treatment Chemical Dosing Optimization
+Used MATLAB to model chemical dosing scenarios and compare oxidant costs (H2O2 vs. ClO2) to reduce treatment chemical expenses while maintaining water quality.
+
+## Connect
+
+[Email](mailto:regnoldchinowaitaa@gmail.com)
